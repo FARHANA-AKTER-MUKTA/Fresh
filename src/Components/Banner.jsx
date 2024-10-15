@@ -7,7 +7,7 @@ const Banner = () => {
       <Container className="flex  items-center justify-between ">
         <div className="left ">
           <h1 className="max-w-[556px] text-[64px] font-semibold  text-[#000000] ">
-            Find The Best Fashion Style For You
+            get the best fashion dresh 
           </h1>
           <p className="max-w-[486px] font-Poppins leading-[33px] mt-[38px] mb-[76px]">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu, odio
